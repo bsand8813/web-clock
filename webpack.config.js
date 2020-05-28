@@ -1,3 +1,6 @@
+// tidak digunakan namun, webpack.proj.js dan webpack.dev.js berasal dari sini
+
+
 const path = require("path");
 const HtmlWebpackPlugin = require ("html-webpack-plugin");
  
